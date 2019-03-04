@@ -1,0 +1,21 @@
+# Métricas Ageis
+
+4. Medindo o numero de entregas de uma equipe
+
+4.5 Uso do Throughput 
+
+Problema 1: throughput unico
+Desafios: throughput sem olhar o tipo de demanda; comparaçao de throughput entre equipes;
+
+Problema 2: aumento no lead time gerando queda no throughput
+Desafios: realizar provas de conceito antes de assumir compromissos de entrega quando tiver incertezas sobre uma funcionalidade;
+
+Problema 3: gargalos no processo
+Desafios: tipos diferentes de classes de serviços podem ignorar algumas etapas do fluxo.
+
+4.6 Técnicas para analisar o Throughput de forma avançada
+
+
+
+
+
